@@ -13,6 +13,7 @@
 		D84D46BB21B1697600E3DFBD /* DataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = D84D46BA21B1697600E3DFBD /* DataClass.swift */; };
 		D8BDBBD021B536CF00676A61 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDBBCF21B536CF00676A61 /* FirstViewController.swift */; };
 		D8BDBBD221B5392E00676A61 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDBBD121B5392E00676A61 /* SecondViewController.swift */; };
+		D8BDBBD421B539D500676A61 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDBBD321B539D500676A61 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +36,7 @@
 		D84D46BA21B1697600E3DFBD /* DataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataClass.swift; sourceTree = "<group>"; };
 		D8BDBBCF21B536CF00676A61 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		D8BDBBD121B5392E00676A61 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		D8BDBBD321B539D500676A61 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				D84D46BA21B1697600E3DFBD /* DataClass.swift */,
 				D8BDBBCF21B536CF00676A61 /* FirstViewController.swift */,
 				D8BDBBD121B5392E00676A61 /* SecondViewController.swift */,
+				D8BDBBD321B539D500676A61 /* ThirdViewController.swift */,
 				D84D46A221B1695200E3DFBD /* CocoaPodFrameWork */,
 				D84D46AD21B1695200E3DFBD /* CocoaPodFrameWorkTests */,
 				D84D46A121B1695200E3DFBD /* Products */,
@@ -208,6 +211,7 @@
 			files = (
 				D8BDBBD221B5392E00676A61 /* SecondViewController.swift in Sources */,
 				D84D46BB21B1697600E3DFBD /* DataClass.swift in Sources */,
+				D8BDBBD421B539D500676A61 /* ThirdViewController.swift in Sources */,
 				D8BDBBD021B536CF00676A61 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
