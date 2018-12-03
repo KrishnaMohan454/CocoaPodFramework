@@ -16,6 +16,7 @@ private var isdebug: Bool!
 public func setup(isDebug: Bool) {
     isdebug = isDebug
     print("Project is in Debug mode: \(isDebug)")
+    print("checking the status")
 }
 
 
@@ -26,3 +27,6 @@ public func YPrint<T>(value: T) {
         //Do any stuff for production mode
     }
 }
+
+
+
