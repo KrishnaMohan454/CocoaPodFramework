@@ -11,6 +11,7 @@
 		D84D46AF21B1695200E3DFBD /* CocoaPodFrameWorkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D84D46AE21B1695200E3DFBD /* CocoaPodFrameWorkTests.swift */; };
 		D84D46B121B1695200E3DFBD /* CocoaPodFrameWork.h in Headers */ = {isa = PBXBuildFile; fileRef = D84D46A321B1695200E3DFBD /* CocoaPodFrameWork.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D84D46BB21B1697600E3DFBD /* DataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = D84D46BA21B1697600E3DFBD /* DataClass.swift */; };
+		D8BDBBD021B536CF00676A61 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BDBBCF21B536CF00676A61 /* FirstViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +32,7 @@
 		D84D46AE21B1695200E3DFBD /* CocoaPodFrameWorkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaPodFrameWorkTests.swift; sourceTree = "<group>"; };
 		D84D46B021B1695200E3DFBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D84D46BA21B1697600E3DFBD /* DataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataClass.swift; sourceTree = "<group>"; };
+		D8BDBBCF21B536CF00676A61 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				D84D46BA21B1697600E3DFBD /* DataClass.swift */,
+				D8BDBBCF21B536CF00676A61 /* FirstViewController.swift */,
 				D84D46A221B1695200E3DFBD /* CocoaPodFrameWork */,
 				D84D46AD21B1695200E3DFBD /* CocoaPodFrameWorkTests */,
 				D84D46A121B1695200E3DFBD /* Products */,
@@ -201,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D84D46BB21B1697600E3DFBD /* DataClass.swift in Sources */,
+				D8BDBBD021B536CF00676A61 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
